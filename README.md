@@ -1,11 +1,8 @@
-# Lambda Calculus
+# Generalized Quantifier Theory (Part 1) 
 
 ## Reading
 
-* [Lambda calculus notes](lambda-calculus.pdf) 
-
-You are not responsible for Section 8.
-
+* Kearns Chapter 6 (up to Section 6.8)
 
 ## Task
 
